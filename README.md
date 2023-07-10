@@ -5,9 +5,8 @@
 
 In this Notebook, I have included the following
 1. Data Preparation
-  -Missing Values
-   
-  *Removing Outliers
+*Missing Values
+*Removing Outliers
 3. Feature Engineering
    -Age of Customers
   -Months Since Enrollment
