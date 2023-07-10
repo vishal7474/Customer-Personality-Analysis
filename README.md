@@ -5,32 +5,32 @@
 
 In this Notebook, I have included the following
 1. Data Preparation
--Missing Values
--Removing Outliers
+  -Missing Values
+  -Removing Outliers
 2. Feature Engineering
--Age of Customers
--Months Since Enrollment
--Total Spendings
--Age Groups
--Number of Children
--Marital Status
--Removing Outliers
+   -Age of Customers
+  -Months Since Enrollment
+  -Total Spendings
+  -Age Groups
+  -Number of Children
+  -Marital Status
+  -Removing Outliers
 3. Exploratory Data Analysis
--Marital Status
--Average Spendings: Marital Status Wise
--Education Level
--Child Status
--Average Spendings: Child Status Wise
--Age Distribution of Customers
+  -Marital Status
+  -Average Spendings: Marital Status Wise
+  -Education Level
+  -Child Status
+  -Average Spendings: Child Status Wise
+  -Age Distribution of Customers
 
-Most Bought Products
+
 4. Modelling Clusters
--Optimum Clusters Using Elbow Method
--Clusters Identification
--Clusters Interpretation
--Data Exploration: Clusters Based
--Customers Distribution
--Relationship: Income vs Spending
+  -Optimum Clusters Using Elbow Method
+  -Clusters Identification
+  -Clusters Interpretation
+  -Data Exploration: Clusters Based
+  -Customers Distribution
+  -Relationship: Income vs Spending
 
 5. Inferences and Conclusions
 
