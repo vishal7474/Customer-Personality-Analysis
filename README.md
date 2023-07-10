@@ -1,3 +1,5 @@
 # Customer-Personality-Analysis
 
-Customer Personality Analysis is a detailed analysis of a company’s ideal Customers. It helps a business to better understand its Customers and makes it easier for them to modify products according to the specific needs, behaviors and concerns of different types of customers.
+Implemented various data preprocessing techniques, conducting
+comprehensive EDA using statistical and visual methods. Implemented clustering techniques to segment
+customers based on data characteristics, uncovering valuable insights, patterns, trends, and relationships.
